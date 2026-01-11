@@ -1,0 +1,87 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing
+Oto Project Space,1-7 Ashwin Street ,,,Hackney,https://www.cafeoto.co.uk/info/,1.00E+11,E09000012,Dalston,E05009370,51.54598889,-0.073218864,533701.5587,184769.3842
+Bally Studios,Unit 16 Mill Mead Industrial Centre,Mill Mead Road,,Haringey,www.ballystudios.co.uk,1.00E+11,E09000014,Tottenham Hale,E05013602,51.59139579,-0.054592149,534858.8396,189852.9556
+Ritz Rehearsal Studios,The Courtyard Esmond Street,Wandsworth,,Wandsworth,,1.00E+11,E09000032,Thamesfield,E05014022,51.4615174,-0.209135791,524507.5572,175136.4362
+Arcola Studio,24 Ashwin Street,,,Hackney,https://www.arcolatheatre.com/about/hire/,10008349712,E09000012,Dalston,E05009370,51.54691,-0.075,533575.3674,184868.5587
+New River Studios,199 Eade Rd,,,Haringey,https://newriverstudios.com/,10022945372,E09000014,Hermitage & Gardens,E05013591,51.57489,-0.08798,532594.1334,187956.3626
+Pirate Studios - Croydon DJ Studios,Unit 8 Block B,15 Whitestone Way,New South Quarter,Croydon,http://piratestudios.co.uk,10014049248,E09000008,Waddon,E05011487,51.37425,-0.11641,531198.1184,165593.8137
+Pirate Studios - Earlsfield Rehearsal Studios,17 Lydden Road,,,Wandsworth,http://piratestudios.co.uk,1.00E+11,E09000032,Wandle,E05014026,51.4468,-0.19074,525825.8152,173531.2452
+Pirate Studios - Greenwich Rehearsal Studios,22 Bugsby's Way,,,Greenwich,http://piratestudios.co.uk,10010260175,E09000011,Greenwich Peninsula,E05014082,51.49144,0.02844,540918.3299,178894.1449
+Pirate Studios - Notting Hill,58 Bard Road,Notting Hill,,Kensington and Chelsea,http://piratestudios.co.uk,217104975,E09000020,Notting Dale,E05009399,51.5122,-0.21939,523658.1674,180755.0722
+Crown Lane Studio,8b Crown Lane,Merton,,Merton,www.crownlanestudio.co.uk,48130591,E09000024,St Helier,E05013824,51.40130581,-0.193932924,525728.619,168466.7992
+Antenna Studios,Bowyers Yard Haynes Lane,Croydon,,Croydon,www.antennastudios.co.uk,10090383277,E09000008,Crystal Palace & Upper Norwood,E05011467,51.41754463,-0.081646512,533491.5176,170470.9504
+Sw19,62 Weir Road,Merton,,Wandsworth,http://www.sw-19.net,48071997,E09000032,Wandsworth Common,E05014027,51.43704302,-0.188465564,526010.6817,172450.1718
+National Opera Studio,The Douglas Kane Studio,2 Chapel Yard Wandsworth High Stlondo,,Wandsworth,http://www.nationaloperastudio.org.uk,121008733,E09000032,Wandsworth Town,E05014028,51.45688,-0.19511,525494.5466,174644.6579
+OCTAGON LONDON STUDIOS,130 BRIXTON HILL,LONDON,,Lambeth,www.artspacestudio.co.uk,10090196515,E09000022,Brixton Acre Lane,E05014095,51.45285,-0.12127,530635.7741,174325.4912
+Rms Rehearsal Studios,Arch 57 Putney Station Approach,,,Hammersmith and Fulham,www.rmsstudios.co.uk,No UPRN,E09000013,Palace & Hurlingham,E05013744,51.46909,-0.20871,524516.5414,175979.2381
+Super Unison Studios,Unit 2a 1 Copeland Park,133 Copeland Road,Peckham,Southwark,www.superunisonstudios.com,10094745706,E09000028,Rye Lane,E05011113,51.46985,-0.06632,534403.6661,176315.276
+The Music Complex Ltd,20 Tanners Hill,Lewisham,,Lewisham,www.musiccomplex.co.uk,1.00E+11,E09000023,Deptford,E05013719,51.4746,-0.02638,537163.3077,176917.5216
+Music Room London,116-118 New Cross Road,Lewisham,,Lewisham,www.musicroomlondon.com,1.00E+11,E09000023,Telegraph Hill,E05013732,51.47605,-0.0483,535636.8071,177037.9335
+Abbey Music Studios,Lodge Hill,Abbey Wood,,Bexley,www.abbeymusicstudios.co.uk,10010234363,E09000004,West Heath,E05011233,51.4773226,0.117603433,547153.1533,177499.615
+Husky Studios,29a Amelia Street,Southwark,,Southwark,www.huskystudios.co.uk,2.00E+11,E09000028,Newington,E05011105,51.48953,-0.09841,532118.138,178445.3148
+Rogue Studios,Railway Arch 4 Bermondsey Trading Estate,Rotherhithe New Road,Southwark,Southwark,www.roguestudios.co.uk,2.00E+11,E09000028,South Bermondsey,E05011116,51.49168,-0.05966,534801.8627,178754.9987
+Arch Studios,Arch 196 Prebend Gardens,Stamford Brook,,Hounslow,www.archstudios.co.uk,1.00E+11,E09000018,Chiswick Homefields,E05013610,51.49488,-0.24695,521792.0011,178782.8933
+The Miller Pub,96 Snowsfields,Southwark,,Southwark,http://www.themiller.co.uk/rehearsal-studio,2.00E+11,E09000028,London Bridge & West Bermondsey,E05011104,51.50217,-0.08746,532841.5637,179870.6863
+Cartel Studios,203-205 The Vale,Ealing,,Ealing,http://www.cartelstudios.co.uk/,12117050,E09000009,Southfield,E05013540,51.50564765,-0.257427375,521036.206,179962.9286
+Bush Studios,151 Railway Arches,Macfarlane Road,Hammersmith And Fu,Hammersmith and Fulham,www.bushstudios.co.uk,34156724,E09000013,Shepherd's Bush Green,E05013748,51.50693299,-0.224404426,523324.4455,180160.9157
+Neville Marriner Rehearsal Room At St. Martin-In-The-,5 St. Martin's Place,City Of Westminster,,Westminster,http://www.stmartin-in-the-fields.org/venue-hire/rehearsal-space/,138020668,E09000033,St James's,E05013806,51.50879,-0.12675,530095.9114,180536.3262
+The Music Studios,29 Marylebone Lane,City Of Westminster,,Westminster,www.themusicstudios.co.uk,1.00E+11,E09000033,Marylebone,E05013801,51.51667,-0.15072,528410.4286,181370.2961
+Bloomsbury Central Baptist Church,235 Shaftesbury Ave London,,,Camden,http://www.bloomsbury.org.uk/roomhire,5087200,E09000007,Holborn & Covent Garden,E05013662,51.51646,-0.12686,530066.4364,181389.0424
+Westbourne Rehearsals,Rear Of 92-98 Bourne Terrace,City Of Westminster,,Westminster,www.westbournerehearsals.com,10033530632,E09000033,Westbourne,E05013809,51.52040602,-0.189166684,525732.6974,181719.0494
+Footes Practice Room,41 Store Street,Camden,,Camden,http://www.footesmusic.com/practice-room-i33,5013080,E09000007,Bloomsbury,E05013653,51.51957941,-0.129056714,529905.1543,181732.0257
+Panic Music Rehearsal Studios,14 Trading Estate Road ,,,Ealing,www.panic-music.co.uk,12141371,E09000009,North Acton,E05013527,51.52637,-0.26877,520194.5168,182248.6494
+Peregrine's Pianos,137a Gray's Inn Road,Camden,,Camden,www.peregrines-pianos.com,5076021,E09000007,Holborn & Covent Garden,E05013662,51.5236337,-0.114343599,530914.2647,182209.0598
+Soundstage Studio,"Unit 1, 30 Gorst Road",Ealing,,Ealing,http://soundstagestudios.co.uk/,12017372,E09000009,North Acton,E05013527,51.52672154,-0.262433209,520633.1491,182298.1567
+Engine Rooms Rehearsal Studios,30 Bow Triangle Business Centre,Eleanor Street,Tower Hamlets,Tower Hamlets,www.engineroomsstudios.com,6074717,E09000030,Bromley South,E05009322,51.52339135,-0.021564604,537350.9537,182352.089
+Vatican Studios,Railway Arch 190 Bancroft Road,Tower Hamlets,,Tower Hamlets,www.thevatican.biz,6036377,E09000030,Bethnal Green,E05009317,51.52536155,-0.046277931,535630.7636,182525.1463
+Urdang2,Urdang Academy Old Finsbury Town Hall,Rosebery Avenue,,Islington,www.theurdanacademy.com,5300079780,E09000019,Clerkenwell,E05013702,51.52651965,-0.106467414,531452.3229,182544.087
+Musica Nova,88 Cromer Street,Camden,,Camden,http://www.musicanova.org.uk/about_us/rehearsal-studios/,5087725,E09000007,King's Cross,E05013666,51.52739688,-0.12074845,530459.2112,182616.1004
+Rooz Studios,35 Corsham Street ,,,Hackney,www.roozstudios.co.uk,10008332356,E09000012,Hoxton West,E05009378,51.52718185,-0.085764051,532886.4761,182655.111
+Premises Studios,209 Hackney Road,Hackney,,Hackney,www.premisesstudios.com,10008340948,E09000012,Haggerston,E05009375,51.53109,-0.07156,533860.2529,183115.6054
+Hoxton Hall,130 Hoxton Street,Hackney,,Hackney,www.hoxtonhall.co.uk,10008342751,E09000012,Hoxton East & Shoreditch,E05009377,51.53177,-0.08001,533272.1998,183175.79
+Studio 3 Arts ,Boundary Road Barking,,,Barking and Dagenham,www.studio3arts.org.uk,100053573,E09000002,Gascoigne,E05014061,51.53054,0.08025,544391.1956,183342.972
+John Henry,16-24 Brewery Road ,,,Islington,www.johnhenrys.com,5300011664,E09000019,Caledonian,E05013700,51.54537,-0.12053,530422.998,184615.1174
+Rising Tide Trust,270 Mare Street,Hackney,,Hackney,,1.00E+11,E09000012,Homerton,E05009376,51.54465,-0.05465,534992.9886,184654.6095
+K-Town Studios,Unit 8 Regis Road,Kentish Town,,Camden,www.ktownstudios.co.uk,5185701,E09000007,Kentish Town South,E05013664,51.55074,-0.14521,528696.624,185168.6014
+The Blue Studios,160 Dalston Lane,Hackney,,Hackney,www.thebluestudios.co.uk,No UPRN,E09000012,Hackney Central,E05009372,51.54813,-0.06594,534199.9531,185020.8168
+Gunfactory Studios,Unit 2 2a,Barnabas Road,Hackney,Hackney,www.gunfactorystudios.com,10008340190,E09000012,Homerton,E05009376,51.54765955,-0.041052908,535926.7929,185014.4151
+Vortex Jazz Club,11 Gillett Square,Hackney,,Hackney,www.vortexjazz.co.uk,10091818908,E09000012,Dalston,E05009370,51.54830363,-0.075068435,533566.5472,185023.4087
+Islington Arts Factory,2 Parkhurst Road,Islington,,Islington,www.islingtonartsfactory.org,5300071066,E09000019,Holloway,E05013706,51.55322109,-0.121545172,530330.1805,185486.3625
+Reel Rebels Music Studios,7a Bouverie Mews ,,,Hackney,"http://reelrebelsradio.com/studio-hire/
+http://reelrebelsmusicstudios.weebly.com/",No UPRN,E09000012,Stoke Newington,E05009385,51.56269,-0.07832,533299.1157,186617.2648
+Karma Studios Ltd.,7a Bouverie Mews,Hackney,,Hackney,,1.00E+11,E09000012,Stoke Newington,E05009385,51.56265,-0.07829,533301.3118,186612.8714
+Storm Rehearsal Studios,Arches 6 & & 303 Holloway Road,,,Islington,www.stormrehearsalstudios.co.uk,5300047960,E09000019,Holloway,E05013706,51.55311,-0.11354,530885.4541,185488.3004
+Audio Underground,121-123 Railway Arches,Beaumont Road,Waltham Forest,Waltham Forest,www.audiounderground.co.uk,10024418697,E09000031,Forest,E05013887,51.57134543,-0.010924385,537944.0351,187704.6499
+Hermitage Works Studios,Hermitage Works 7,Vale Grove,,Haringey,www.hermitageworksstudios.com,1.00E+11,E09000014,Hermitage & Gardens,E05013591,51.57507,-0.09316,532234.6757,187966.9958
+Bonafide Studio,14 The Viaduct,St. James Lane,,Haringey,www.bonafidestudio.co.uk,10003975672,E09000014,Muswell Hill,E05013594,51.58779933,-0.140634642,528909.0499,189297.791
+Gillet Square Studios,Unit B7, 3 Bradbury St,,Hackney,http://www.gillettsquare.org.uk/home,No UPRN,E09000012,Dalston,E05009370,51.54866,-0.07584,533512.0111,185061.6283
+Music Bank,"Unit 4, Chandos Park",Chandos Road,Old Oak Common,Ealing,http://www.musicbank.org/,12193729,E09000009,North Acton,E05013527,51.527647,-0.25534481,521122.3871,182412.7658
+Panic Button Studios,30A Platts Eyot,Lower Sunbury Road,Hampton on Thames,Richmond upon Thames,https://panicbuttonstudios.com/contacts/,See notes,E09000027,Hampton,E05013778,51.40949,-0.37232,513300.466,169086.2128
+Brockley Studios,53 Arabin Road,Brockley,,Lewisham,https://brockleystudios.co.uk/,1.00E+11,E09000023,Brockley,E05013716,51.460365,-0.036367204,536512.2235,175315.952
+Volume Unlimited,1C Meadow Works ,,,Barnet,https://volume-unlimited.co.uk/volume-unlimited/,See notes,E09000003,Barnet Vale,E05013628,51.64315,-0.18372,525771.4223,195378.0736
+Sensible Music Group,90-96 Brewery Road,,,Islington,https://www.sensible-music.co.uk/rehearsals,5300011689,E09000019,Caledonian,E05013700,51.544259,-0.12440899,530157.2117,184484.67
+Brixton Hill Studios,"Unit 1, 126 Brixton Hill",,,Lambeth,https://brixtonhillstudios.com/,2.00E+11,E09000022,Brixton Acre Lane,E05014095,51.453056,-0.12096731,530656.2168,174348.938
+Terminal Music Studios,"Unit 17, Bermondsey Trading Estate",Rotherhithe New Road,,Southwark,https://terminal.co.uk/,2.00E+11,E09000028,South Bermondsey,E05011116,51.489576,-0.05486124,535141.2016,178529.8804
+Dalston Rehearsal Studio,73 Stoke Newington Rd,,,Hackney,https://dalstonrehearsalstudio.co.uk/,1.00E+11,E09000012,Shacklewell,E05009382,51.553605,-0.075124287,533547.1757,185612.8285
+Rockbottom Music ,68-70 London Road,,,Croydon,https://www.rockbottommusic.co.uk/rehearsal-rooms/,1.00E+11,E09000008,Broad Green,E05011465,51.37949,-0.10389232,532054.2482,166198.9418
+Creation Studios,Kentish Town Road and Royal College Street,London,,Camden,https://www.creationmusicstudios.com/,5110315,E09000007,Camden Town,E05013655,51.544672,-0.141309,528984.2265,184500.6937
+Urchin Studios,"Unit 1, Stonemason's House",Hepscott Road,,Tower Hamlets,https://www.urchinstudios.co.uk/,6736494,E09000030,Bow East,E05009319,51.542873,-0.025130545,537045.0949,184511.7995
+Ritz Music Studio,88 Sheen Rd,Richmond,,Richmond upon Thames,https://ritzmusic.co.uk/,1.00E+11,E09000027,South Richmond,E05013786,51.462014,-0.29647238,518439.4303,175047.0046
+Soundbox Studios,"Unit 4, Pandora House",41-45 Lind Road,,Sutton,https://www.soundboxuk.com/,5870051407,E09000029,Sutton Central,E05013765,51.364904,-0.18623386,526364.256,164432.0958
+Dance Attic,368 North End Road,,,Hammersmith and Fulham,https://www.danceattic.com,34069847,E09000013,Walham Green,E05013749,51.481158,-0.19952684,525121.3544,177336.8562
+Academy Mews Studios,15 PRATT MEWS,,,Camden,https://www.city-academy.com/locations/academy-mews-studios,5088505,E09000007,Regent's Park,E05013668,51.537178,-0.14054726,529058.234,183668.6934
+Battersea Arts Centre,Lavender Hill,,,Wandsworth,https://www.bac.org.uk/,121015942,E09000032,Shaftesbury & Queenstown,E05014019,51.465162,-0.16083884,527852.2738,175624.8274
+West London Art Factory ,135 Dukes Road,,,Ealing,https://www.westlondonartfactory.com/,12187273,E09000009,North Acton,E05013527,51.523802,-0.28241924,519254.4214,181940.7752
+Fitztrovia Community Centre,2 Foley Street,,,Westminster,https://www.fitzroviacommunitycentre.org/room-hire,10033619463,E09000033,West End,E05013808,51.520181,-0.13877482,529229.2517,181781.7326
+St Edward's Church Mottingham,35 St Keverne Road,London,,Bromley,https://www.stedwardsmottingham.org.uk,1.00E+11,E09000006,Mottingham,E05014000,51.427296,0.047864414,542466.1875,171798.9511
+St Andrew's Church,St Andrew's Road,Sidcup,,Bexley,www.sidcupsymphony.org.uk,10011847236,E09000004,Sidcup,E05011230,51.431743,0.12685978,547943.1937,172449.8907
+Pirate Studios - Dalston ,42-56 Tottenham Road,,,Hackney,https://pirate.com/en/locations/london-dalston/,1.00E+11,E09000012,De Beauvoir,E05009371,51.545472,-0.078193369,533358.1575,184702.8162
+Pirate Studios - Wembley ,278 Abbeydale Road,,,Brent,https://pirate.com/en/locations/london-wembley/,202137355,E09000005,Alperton,E05013496,51.538754,-0.28468273,519058.4006,183599.8174
+Pirate Studios - Hackney ,13 Rothbury Road,,,Tower Hamlets,https://pirate.com/en/locations/london-hackney/,6722124,E09000030,Bow East,E05009319,51.54218,-0.026689225,536939.0958,184431.8234
+Pirate Studios - Tottenham,2 Norman Rd,,,Haringey,https://pirate.com/en/locations/london-tottenham/,1.00E+11,E09000014,South Tottenham,E05013599,51.58254,-0.068431179,533926.2625,188842.7088
+Fomo London,225 Camden Road ,,,Camden,https://www.fomo.london/studio,5079631,E09000007,Kentish Town South,E05013664,51.54868,-0.12982341,529769.2114,184966.6802
+Mustard Seed Studio,Burford Road,Stratford,,Newham,https://domclarktrio.com/mustard-seed,10009017863,E09000025,Stratford,E05013924,51.537326,-0.000294467,538784.0945,183941.7319
+Tiger Studios ,566 Cable St,Limehouse,,Tower Hamlets,https://tigerstudiolondon.co.uk/,See notes ,E09000030,Shadwell,E05009332,51.51148,-0.04271,535919.5715,180988.1048
+Arcus Sounds,"Unit 7, The Arches",Cranberry Lane,,Newham,https://www.arcussounds.com/writing-rehearsal,10023994441,E09000025,Canning Town North,E05013906,51.522905,0.004796566,539181.0931,182347.7708
+Chiswick Rehearsal Room,"Ground Floor, Wellington Place",Dolman Road,,Hounslow,https://www.chiswickrehearsalroom.com/,10001271748,E09000018,Chiswick Gunnersbury,E05013609,51.492923,-0.26349897,520648.4307,178537.9014
+TACO! (Thamesmead Arts and Culture Office),Cygnet Sq,,,Bexley,https://taco.org.uk/Cygnet-Square,10094789589,E09000004,Thamesmead East,E05011232,51.49767,0.12293996,547458.0597,179772.9622

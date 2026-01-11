@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+*.log
+*.ipynb_checkpoints
+/MEMO
+*.Rhistory
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.git
+/.idea

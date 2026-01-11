@@ -1,0 +1,77 @@
+﻿name,address1,address2,address3,borough_name,website,os_addressbase_uprn,borough_code,ward_2022_name,ward_2022_code,latitude,longitude,easting,northing
+Camden Collective,Auction Room,5-7 Buck Street,Camden Town,Camden,www.camdencollective.co.uk/,5083338,E09000007,Camden Town,E05013655,51.54022888,-0.141521672,528982.0375,184006.2383
+Second Home,Second Home Spitafields,68-80 Hanbury Street,,Tower Hamlets,http://secondhome.io/,6000144,E09000030,Spitalfields & Banglatown,E05009333,51.51952071,-0.068843891,534082.6081,181834.0523
+The Trampery Republic,The Trampery (Republic),Anchorage House,2 Clove Crescent,Tower Hamlets,www.thetrampery.com,6083018,E09000030,Poplar,E05009328,51.50970702,-0.003233377,538664.1246,180864.9606
+The Carlyle Group,Uncommon,126 New King's Road,,Hammersmith and Fulham,https://uncommon.co.uk/,34107031,E09000013,Palace & Hurlingham,E05013744,51.47127607,-0.204476671,524804.5972,176229.5281
+Huckletree,Huckletree,White City Place,191 Wood Lane,Hammersmith and Fulham,http://www.huckletree.com/,34160930,E09000013,College Park & Old Oak,E05013736,51.51286842,-0.226283471,523178.0419,180817.7874
+Second Home,Second Home Holland Park,47-49 Princes Place,,Kensington and Chelsea,http://secondhome.io/,217117492,E09000020,Norland,E05009398,51.5075609,-0.208631972,524417.2763,180257.4098
+The Green House,The Green House E9,Greenhouse,49 Green Lanes,Islington,http://www.thegreenhouselondon.com/coworking/,5300037627,E09000019,Mildmay,E05013709,51.55241886,-0.086378056,532770.4623,185460.4261
+The Carlyle Group,Uncommon,25 Horsell Road,,Islington,https://uncommon.co.uk/,5300051070,E09000019,Highbury,E05013704,51.54981458,-0.10656764,531378.2975,185134.3413
+Canal Studios,Canal Studios,Reliance Wharf,Hertford Road,Hackney,http://canal-studios.co.uk/,10008239524,E09000012,Haggerston,E05009375,51.53675409,-0.077120569,533458.0237,183735.3077
+Soho Works Shoreditch,The Tea Building,56 Shoreditch High Street,,Tower Hamlets,http://sohoworks.com/shoreditch/,10008297236,E09000030,Weavers,E05009335,51.52356281,-0.07510294,533636.5575,182272.0875
+The Green House,The Green House N16,Greenhouse,Makintosh Lane,Hackney,http://www.thegreenhouselondon.com/coworking/,10008301285,E09000012,Hackney Wick,E05009374,51.54684138,-0.040965447,535935.2929,184923.5956
+Farrells Creative Hub,Farrells Creative Hub,,Penfold Street,Westminster,https://hubblehq.com/office-space/2955/farrells-creative-hub-paddington,10033594009,E09000033,Church Street,E05013794,51.52296068,-0.171808369,526929.8258,182033.072
+Matthews Yard,Matthews Yard,1 Matthews Yard,Off Surrey Street,Croydon,http://matthewsyard.com,10090382144,E09000008,Fairfield,E05011468,51.37163487,-0.099516428,532381.3903,165333.3368
+Areaworks,Areaworks Manor House,Unit 5 Manor House,2 Overbury Road,Haringey,http://areaworks.com/,10090477296,E09000014,Hermitage & Gardens,E05013591,51.57553108,-0.085753703,532746.5342,188031.6938
+Huckletree,Huckletree,18 Finsbury Square,The Alphabeta Buil,Islington,http://www.huckletree.com/,10091002838,E09000019,Bunhill,E05013699,51.5211989,-0.085077918,532951.4887,181991.0443
+Ark Coworking,Ark Coworking,237 Pentonville Road,King's Cross,Islington,www.arkcoworking.com,10093112761,E09000019,Clerkenwell,E05013702,51.53041515,-0.116601152,530738.2408,182959.1288
+This Time Next Year,This Time Next Year,80 Ruckholt Road,,Waltham Forest,https://www.thistimenextyear.co.uk/,10093559245,E09000031,Leyton,E05013896,51.55692352,-0.009562731,538082.0404,186103.4672
+Millers Junction,Millers Junction,Unit 1,10-28 Millers Aven,Hackney,www.millersjunction.com/,1.00E+11,E09000012,Shacklewell,E05009382,51.55193537,-0.07287466,533708.0172,185431.2748
+Bootstrap Charity,Bootstrap Company,18 Ashwin Street,,Hackney,www.bootstrapcompany.co.uk,10008241414,E09000012,Dalston,E05009370,51.54650564,-0.072374834,533758.5666,184828.3927
+Second Home,Second Home London Fields,125-129 Mare Street,,Hackney,http://secondhome.io/,1.00E+11,E09000012,Victoria,E05009386,51.53769035,-0.055931664,534924.6735,183878.3204
+Another Place Coworking,3-9 Belfast Road,,,Hackney,https://www.beehivecoworking.com/,1.00E+11,E09000012,Cazenove,E05009368,51.56537946,-0.070508703,533832.6392,186930.6126
+Blighty Workspace Finsbury Park,Blightly Arts Workspace,35-37 Blackstock Road,,Hackney,https://blightyarts.org.uk/what-we-do/,1.00E+11,E09000012,Brownswood,E05009367,51.56345352,-0.10129692,531704.3638,186660.5163
+The Handbag Factory,The Handbag Factory,3 Loughborough Street,,Lambeth,http://www.handbag-factory.com,1.00E+11,E09000022,Kennington,E05014105,51.48673752,-0.114065734,531039.3006,178106.6759
+ArtFix Woolwich,51 Powis Street,,,Greenwich,artfix.org.uk,1.00E+11,E09000011,Woolwich Arsenal,E05014092,51.49073476,0.068102393,543673.7684,178892.7859
+Piano House,9 Brighton Terrace,Brixton,,Lambeth,www.pianohousebrixton.co.uk/,1.00E+11,E09000022,Brixton Windrush,E05014098,51.46111732,-0.114791121,531062.2516,175256.3852
+Sohost,Sohost,8 Berwick Street,,Westminster,www.hostsoho.com,1.00E+11,E09000033,West End,E05013808,51.51270638,-0.132884143,529659.1343,180960.9558
+Studio Shoreditch,Shoreditch Studio,77 East Road,,Hackney,www.studioshoreditch.co.uk,2.00E+11,E09000012,Hoxton West,E05009378,51.52859806,-0.086021853,532864.4725,182812.1275
+Universal Workspace,Universal Workspace,25-33 Southwark Street,,Southwark,http://cargocollective.com/universalworkspace,2.00E+11,E09000028,Borough & Bankside,E05011095,51.50403859,-0.0911152,532582.4642,180071.8536
+The Carlyle Group,Uncommon,1 Long Lane,,Southwark,https://uncommon.co.uk/,2.00E+11,E09000028,Chaucer,E05011098,51.50076752,-0.090171159,532657.4753,179709.8184
+The Ministry,79-81 Borough Road,,,Southwark,https://theministry.com/locations/01-br/workspace/,2.00E+11,E09000028,Borough & Bankside,E05011095,51.499023,-0.097955751,532122.2367,179501.7614
+Scratch Hub,Battersea Arts Centre,Lavender Hill,,Wandsworth,https://bac.org.uk/scratch-hub/,121015942,E09000032,Shaftesbury & Queenstown,E05014019,51.465162,-0.16083884,527852.2738,175624.8274
+Rara,Rara,2 Grosvenor Way,,Waltham Forest,www.r-a-r-a.com/,1.00E+11,E09000031,Valley,E05013901,51.61686,-0.017962308,537319.1807,192752.8582
+PLACE/Ladywell,"Ground Floor, Units A, B and C",261 Lewisham High Street,,Lewisham,https://www.placeladywell.co.uk/ https://www.meanwhilespace.com/single-post/place-ladywell,10093391638,E09000023,Ladywell,E05013725,51.456548,-0.01371593,538097.2208,174933.9392
+The Granville,140 Carlton Vale,Kilburn,,Brent,https://thegranville.org/workspace/,202224307,E09000005,Kilburn,E05013503,51.532724,-0.19739206,525128.2979,183074.7493
+Creative Works,7 Blackhorse Ln,,,Waltham Forest,https://www.creativeworks.space/,No UPRN,E09000031,St James,E05013899,51.58867,-0.04009,535871.4312,189576.6638
+Clockwise Group LTD,Greenside House,50 Station Road,,Haringey,https://work-clockwise.com/,1.00E+11,E09000014,Woodside,E05013605,51.596838,-0.11317623,530785.2587,190351.6795
+Tripod Brixton,Lambeth Town Hall,Brixton,,Lambeth,https://www.meanwhilespace.com/single-post/tripod / https://www.tripodbrixton.co.uk/,1.00E+11,E09000022,Brixton Acre Lane,E05014095,51.460661,-0.11689773,530917.2205,175201.8768
+Artist Hive Studios,Pretoria Road North,,,Enfield,https://www.artisthivestudios.com/,207013560,E09000010,Upper Edmonton,E05013694,51.609075,-0.071608902,533628.2804,191787.6997
+Small Works Victoria,Block A Peabody Vauxhall Estate,Vauxhall Bridge Rd,,Westminster,https://www.clear-village.org/projects/smallworks/victoria,10033544929,E09000033,Vincent Square,E05013807,51.493905,-0.13990291,529225.2899,178857.8217
+9 & 17 Lyon Road,9 & 17 Lyon Road,Wimbledon,,Merton,https://mainyardstudios.co.uk/private-offices-music-studios-wimbledon/,48046261,E09000024,Abbey,E05013810,51.412121,-0.18662351,526207.2766,169682.0131
+Old Paradise Yard,20 Carlisle Ln,Waterloo,,Lambeth,https://eatworkart.com/old-paradise-yard,2.00E+11,E09000022,Waterloo & South Bank,E05014118,51.498487,-0.11654926,530833.2582,179408.7902
+Makeshift,Peckham Levels,Level 1 To 6 Peckham Town Centre Car ,95a Rye Lane,Southwark,https://www.peckhamlevels.org/about,2.00E+11,E09000028,Rye Lane,E05011113,51.470741,-0.068232581,534268.2198,176410.8463
+Narrow Yard ,20 Wilmot Road,Leyton,,Waltham Forest,https://www.narrowyard.co.uk/,1.00E+11,E09000031,Leyton,E05013896,51.56283,-0.012521594,537859.0876,186754.706
+Meanwhile Space,Central Parade,6-10 Central Parade,Hoe Street,Waltham Forest,https://www.meanwhilespace.com/single-post/central-parade,2.00E+11,E09000031,Hoe Street,E05013893,51.58524,-0.01922,537327.358,189234.1818
+Hackney Downs Studios ,17 Amhurst Terrace,Lower Clapton,,Hackney,https://eatworkart.com/hackney-downs-studios/studios/heartspace,10008337805,E09000012,Shacklewell,E05009382,51.55475,-0.067156424,534096.1822,185754.7407
+Somerset House Trust,Exchange (Somerset House),Somerset House,,Westminster,www.somersethouse.org.uk/work/office-space,1.00E+11,E09000033,St James's,E05013806,51.511019,-0.117978,530698.2404,180799.8075
+De Beauvoir Block,De Beauvoir Block,92-96 De Beauvoir Road,,Hackney,http://www.debeauvoirblock.com/#home,10008348446,E09000012,De Beauvoir,E05009371,51.541897,-0.080117779,533235.1602,184301.7491
+Oxford House Theatre,87 Derbyshire Street,,,Tower Hamlets,https://www.oxfordhouse.org.uk/space-hire/offices-and-workspace-for-rent/,6089004,E09000030,St Peter's,E05009331,51.526367,-0.061510951,534571.1484,182608.8377
+Four Corners,121 Roman Road,,,Tower Hamlets,http://www.fourcornersfilm.co.uk/home,6039056,E09000030,Bethnal Green,E05009317,51.52875,-0.04884,535442.9882,182897.2142
+The Trampery Old Street,239 Old Street,London,,Hackney,https://thetrampery.com/spaces/workspaces/old-street/,10008287321,E09000012,Hoxton West,E05009378,51.526625,-0.084321144,532988.183,182595.8102
+The Trampery Tottenham,639 High Road,London,,Haringey,https://thetrampery.com/spaces/workspaces/tottenham/,1.00E+11,E09000014,Bruce Castle,E05013587,51.599096,-0.068465165,533875.2772,190683.7438
+Blighty Workspace Tottenham ,266 High road,Tottenham,London,Haringey,http://blightyworkspace.co.uk/,1.00E+11,E09000014,South Tottenham,E05013599,51.585709,-0.07135704,533714.2649,189189.7562
+Office Club ,The Bussey Building,"Block B, Floor 3",133 Rye Lane,Southwark,https://jointheofficeclub.com/,10094087616,E09000028,Rye Lane,E05011113,51.469815,-0.068199736,534273.2173,176307.936
+Soho Works White City,2 Television Centre,101 Wood Lane,London,Hammersmith and Fulham,https://www.sohohouse.com/soho-works/white-city,10092040398,E09000013,White City,E05013752,51.510681,-0.22614773,523193.3598,180574.7696
+Soho Works Dean Street,72-74 Dean Street,Soho,London,Westminster,https://www.sohohouse.com/soho-works/dean-street,1.00E+11,E09000033,West End,E05013808,51.513904,-0.13307844,529642.2536,181093.7886
+Soho Works 180 Strand,180 Strand ,London,,Westminster,https://www.sohohouse.com/soho-works/180-strand,1.00E+11,E09000033,St James's,E05013806,51.512421,-0.11510992,530893.2349,180960.832
+Silver Building (Projekt),60 Dock road,London,,Newham,http://thisisprojekt.com/silverbuilding,10008985422,E09000025,Royal Victoria,E05013923,51.504762,0.017112899,540091.1371,180353.824
+arebyte Studio - London City Island,7 Botanic Square,,,Tower Hamlets,https://www.arebyte.com/available-studios,No UPRN found,E09000030,Blackwall & Cubitt Town,E05009318,51.51209106,0.006471284,539330.2596,181148.4846
+arebyte Studio - Camberwell,"Burgess Business Park, London",,,Southwark,https://www.arebyte.com/available-studios,No UPRN found,E09000028,St Giles,E05011115,51.48047367,-0.086074868,533000.7778,177460.5617
+Grow Studios,"86 & 98 Main Yard, Wallis Road",,,Hackney,https://www.growhackneystudios.co.uk,10008332474,E09000012,Hackney Wick,E05009374,51.543811,-0.022623784,537216.0926,184620.7968
+Areaworks Colindale,"Unit 23, Beaufort Park",8 Aerodrome Rd,,Barnet,https://www.areaworks.com/coworking-spaces/colindale/,200155308,E09000003,Colindale South,E05013633,51.595283,-0.24240245,521839.2499,189955.5764
+Areaworks Farringdon,"57a, Hatton Garden",Holborn,,Camden,https://www.areaworks.com/coworking-spaces/hatton-garden/,5158141,E09000007,Holborn & Covent Garden,E05013662,51.521779,-0.10879904,531304.2206,182012.7405
+Batch Space ,Hackney Depot,5 Sheep Lane,,Hackney,https://www.batch.space/index.html,10008353302,E09000012,London Fields,E05009381,51.535491,-0.059133464,534709.1298,183627.8411
+East Dulwich Creative,18 Vale End,East Dulwich,,Southwark,https://www.eastdulwichcreative.co.uk/,No UPRN,E09000028,Goose Green,E05011103,51.46192,-0.07884,533557.2608,175410.5656
+BENK + BO ,4-6 Gravel Lane,,,City of London,https://www.benkandbo.com/workspace,1.00E+11,E09000001,Portsoken,E05009308,51.515797,-0.076041229,533594.1869,181406.8054
+Pollards Studios,50 Montgomery Close,Mitcham,,Merton,www.launchit.org.uk/launch-it-london,48051309,E09000024,Pollards Hill,E05013821,51.398053,-0.12578111,530478.2038,168224.0177
+Omega Hub,"Omega Works, Unit 132",Roach Rd,,Tower Hamlets,https://omegahub.co.uk/coworking-space-hackney-wick/,6650110,E09000030,Bow East,E05009319,51.540793,-0.021225996,537322.092,184287.8101
+Digital Dock,205 High Street,Brentford,,Hounslow,https://www.digitaldockbrentford.com/,1.00E+11,E09000018,Syon & Brentford Lock,E05013627,51.483414,-0.30813308,517574.4784,177407.9634
+Gossamer City Project,1-65 Gossamer Gardens,,,Tower Hamlets,https://gossamercityproject.london/,No UPRN,E09000030,St Peter's,E05009331,51.53263,-0.05902,534725.444,183309.894
+WorkShop,102 St. Pancras Way,,,Camden,https://w-shop.co/,5020346,E09000007,Kentish Town South,E05013664,51.543539,-0.13844203,529186.2232,184379.7562
+The Corner Studios,Vincent's Yard,23 Alphabet Mews,Vassal,Lambeth,https://thecornerstudios.co.uk/,10090201031,E09000022,Stockwell East,E05014110,51.473872,-0.11416498,531069.2365,176675.8339
+Hoxton Studios,237 Hackney Road,,,Hackney,https://www.stourstudios.co.uk/hoxton-studios,1.00E+11,E09000012,Haggerston,E05009375,51.53132,-0.070167518,533956.1562,183143.7324
+Stratford Studios,"Duncan House, Jupp Road, Stratford",,,Newham,https://www.stourstudios.co.uk/duncan-house,10094369425,E09000025,Stratford,E05013924,51.538021,-0.002513575,538628.0904,184014.8108
+arebyte Studios - Old Kent Road,765 Old Kent Road,,,Southwark,https://www.arebyte.com/available-studios,2.00E+11,E09000028,Old Kent Road,E05011109,51.480525,-0.058385989,534923.2173,177516.9173
+Bow Arts - Durham Street,47-49 Durham Street,,,Lambeth,https://bowarts.org/studios/durham-street-studios-vauxhall,1.00E+11,E09000022,Oval,E05014108,51.485046,-0.11837066,530745.2642,177910.8876
+Camden Collective,5-7 Buck Street,London,,Camden,https://camdencollective.co.uk/,5083338,E09000007,Camden Town,E05013655,51.540735,-0.1431278,528869.2321,184059.692
