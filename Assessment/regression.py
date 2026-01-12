@@ -95,3 +95,36 @@ plt.legend()
 plt.grid(True, alpha=0.3)
 plt.savefig('regression_accuracy_plot.png')
 print("📈 模型准确度图表已保存为: regression_accuracy_plot.png")
+
+# ==========================================
+# 6. 可视化 (Visualization) - 修改版
+# ==========================================
+# 我们改用 Model A (Total Crime)，因为它的 R² 最高，展示效果最好
+plt.figure(figsize=(10, 6))
+
+# 修改 x 为 model_a.fittedvalues (预测值)
+# 修改 y 为 df_master['Total_Crime_Rate'] (真实值)
+sns.scatterplot(x=model_a.fittedvalues, y=df_master['Total_Crime_Rate'], s=100, alpha=0.8, color='blue')
+
+# 画对角线 (完美预测线)
+min_val = df_master['Total_Crime_Rate'].min()
+max_val = df_master['Total_Crime_Rate'].max()
+plt.plot([min_val, max_val], [min_val, max_val], 'r--', linewidth=2, label='Perfect Prediction Line')
+
+# 添加标签 (标注行政区名字)
+# 这里的循环也需要对应修改数据源
+for i in range(len(df_master)):
+    # 为了避免字叠在一起，稍微错开一点位置 (+2)
+    plt.text(model_a.fittedvalues[i]+2, df_master['Total_Crime_Rate'][i],
+             df_master.index[i], fontsize=8, alpha=0.7)
+
+plt.title(f'Model Accuracy: Predicted vs Actual Total Crime Rate')
+plt.xlabel('Predicted Crime Rate (Model Output)')
+plt.ylabel('Actual Crime Rate (Data)')
+plt.legend()
+plt.grid(True, linestyle=':', alpha=0.6)
+
+# 保存图片
+plt.savefig('regression_accuracy_plot_TotalCrime.png', dpi=300)
+print("📈 总体犯罪率模型图表已保存为: regression_accuracy_plot_TotalCrime.png")
+plt.show()
