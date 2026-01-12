@@ -77,7 +77,7 @@ sns.scatterplot(x='PC1', y='PC2', data=pca_df, s=100)
 for i in range(pca_df.shape[0]):
     plt.text(pca_df.PC1[i]+0.1, pca_df.PC2[i], pca_df.index[i], fontsize=9)
 
-plt.title('London Cultural PCA: Intensity (PC1) vs Character (PC2)')
+plt.title('London Cultural PCA: Intensity (PC1) vs Production (PC2)')
 plt.xlabel(f'PC1 ({pca.explained_variance_ratio_[0]*100:.2f}%)')
 plt.ylabel(f'PC2 ({pca.explained_variance_ratio_[1]*100:.2f}%)')
 plt.grid(True)
