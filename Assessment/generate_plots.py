@@ -46,24 +46,24 @@ loadings = pd.DataFrame(pca.components_.T, columns=['PC1', 'PC2'], index=numeric
 # ==========================================
 # 准备数据
 df_scatter = df_pca_scores.join([df_crime, df_pop], how='inner')
-df_scatter['Violence_Rate'] = (df_scatter['Violence_2023'] / df_scatter['Population']) * 1000
+df_scatter['Total_Crime_Rate'] = (df_scatter['Total_Crime_2023'] / df_scatter['Population']) * 1000
 
 plt.figure(figsize=(10, 6))
 # 绘制带回归线的散点图
-sns.regplot(x='PC2', y='Violence_Rate', data=df_scatter,
+sns.regplot(x='PC2', y='Total_Crime_Rate', data=df_scatter,
             scatter_kws={'s': 100, 'alpha': 0.7, 'color': '#2c3e50'},
             line_kws={'color': '#e74c3c'}) # 红色拟合线
 
 # 标注重要区域
 for i in range(df_scatter.shape[0]):
     # 只标注比较极端的点，避免拥挤
-    if abs(df_scatter['PC2'].iloc[i]) > 1.5 or df_scatter['Violence_Rate'].iloc[i] > 35:
-        plt.text(df_scatter['PC2'].iloc[i]+0.2, df_scatter['Violence_Rate'].iloc[i],
+    if abs(df_scatter['PC2'].iloc[i]) > 1.5 or df_scatter['Total_Crime_Rate'].iloc[i] > 35:
+        plt.text(df_scatter['PC2'].iloc[i]+0.2, df_scatter['Total_Crime_Rate'].iloc[i],
                  df_scatter.index[i], fontsize=9)
 
-plt.title('The "Maker Effect": Creative Production vs Violence Rate', fontsize=14, fontweight='bold')
+plt.title('The "Maker Effect": Creative Production vs Total Crime Rate', fontsize=14, fontweight='bold')
 plt.xlabel('Creative Production Intensity (PC2 Score)', fontsize=12)
-plt.ylabel('Violence Rate (per 1,000 people)', fontsize=12)
+plt.ylabel('Total Crime Rate (per 1,000 people)', fontsize=12)
 plt.grid(True, alpha=0.3)
 plt.savefig('scatter_plot.png', dpi=300)
 plt.show()
@@ -80,6 +80,7 @@ sns.barplot(x=loadings_sorted['PC2'], y=loadings_sorted.index, palette=colors)
 
 plt.title('Decoding PC2: Production (+) vs Consumption (-)', fontsize=14, fontweight='bold')
 plt.xlabel('Contribution to PC2 Score', fontsize=12)
+plt.ylabel('Type', fontsize=12)
 plt.axvline(x=0, color='black', linestyle='-', linewidth=0.8)
 plt.tight_layout()
 plt.savefig('loadings_plot.png', dpi=300)
