@@ -9,6 +9,11 @@ gdf = gpd.read_file("London_Boroughs.geojson")
 df_scores = pd.read_csv("London_Borough_PCA_Scores.csv")
 
 # 3. 合并数据 (注意地图文件里的名字通常叫 'name' 或 'BOROUGH')
+gdf['BOROUGH'] = gdf['BOROUGH'].replace({
+    "Barking & Dagenham": "Barking and Dagenham",
+    "Hammersmith & Fulham": "Hammersmith and Fulham",
+    "Kensington & Chelsea": "Kensington and Chelsea"
+})
 gdf = gdf.merge(df_scores, left_on='BOROUGH', right_on='Borough', how='left')
 
 # 4. 画 PC1 (Intensity) 地图
